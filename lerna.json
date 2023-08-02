@@ -8,7 +8,6 @@
       "conventionalCommits": true,
       "npmClient": "yarn",
       "registry": "http://localhost:4873/",
-      "verifyAccess": false
     }
   }
 }
