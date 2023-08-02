@@ -1,5 +1,5 @@
-function main() {
-  console.log('main test2');
+export class Logger {
+  info(message) {
+    console.log(message);
+  }
 }
-
-main();
