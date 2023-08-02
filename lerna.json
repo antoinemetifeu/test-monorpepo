@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
+  "version": "independent",
+  "npmClient": "yarn",
+   "command": {
+    "publish": {
+      "message": "chore(packages): release",
+      "conventionalCommits": true,
+      "npmClient": "yarn",
+      "registry": "http://localhost:4873/",
+      "verifyAccess": false
+    }
+  }
+}

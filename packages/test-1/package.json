@@ -1,0 +1,13 @@
+{
+  "name": "@antoineM/test-1",
+  "version": "0.0.0",
+  "main": "index.js",
+  "files": [
+    "dist",
+    "index.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@antoineM/test-2": "0.0.0"
+  }
+}
