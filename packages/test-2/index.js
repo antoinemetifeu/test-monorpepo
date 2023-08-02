@@ -1,5 +1,5 @@
 function main() {
-  console.log('main test2);
+  console.log('main test2');
 }
 
 main();
