@@ -1,1 +1,5 @@
-console.log('create index.js')
+function main() {
+  console.log('main');
+}
+
+main();
