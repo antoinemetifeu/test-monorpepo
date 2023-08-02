@@ -1,5 +1,13 @@
+class Logger {
+  log(message) {
+    console.log('main');
+  }
+}
+
 function main() {
-  console.log('main');
+  const logger = new Logger();
+
+  logger.log('main');
 }
 
 main();
